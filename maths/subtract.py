@@ -4,7 +4,7 @@ def subtract_nums(num1, num2):
         :param int num1: The first number
         :param int num2: The second number
 
-        :returns: The result of subtracting num1 from num2
+        :returns: The result of subtracting num2 from num1
 
         :rtype: int
     """
